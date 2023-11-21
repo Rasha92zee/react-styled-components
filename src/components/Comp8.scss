@@ -1,0 +1,25 @@
+$primaryColor: #3498db;
+$secondaryColor: #d1f0de;
+$headingFont: sans-serif;
+$baseFontSize: 16px;
+$color: #fff;
+
+
+.container {
+    background-color: $primaryColor;
+    color: $secondaryColor;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.header {
+    color: $color;
+    font-family: $headingFont;
+    font-size: $baseFontSize * 1.5;
+    margin-bottom: 10px;
+}
+
+.description {
+    color: darken($color, 40%);
+    font-size: $baseFontSize ;
+}

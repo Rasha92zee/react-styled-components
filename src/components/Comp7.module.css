@@ -1,0 +1,29 @@
+.btn1 {
+    background-color: darkslategrey;
+    color: white;
+    padding: 20px;
+    border-radius: 4px;
+    margin: 10px;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.btn1:hover {
+    background-color: aquamarine;
+    transition: 2s ease-in;
+    color: black;
+}
+
+.heading {
+    font-size: 27px;
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.container {
+    background-color: coral;
+    margin: 20px;
+    padding: 10px;
+    height: 500px;
+}
