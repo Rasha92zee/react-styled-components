@@ -1,5 +1,7 @@
 import './App.css';
-import Comp8 from './components/Comp8';
+import Comp9 from './components/Comp9';
+import NavbarComponent from './components/NavbarComponent';
+// import Comp8 from './components/Comp8';
 // import Comp1 from './components/Comp1';
 // import Comp2 from './components/Comp2';
 // import Comp3 from './components/Comp3';
@@ -22,7 +24,9 @@ function App() {
       {/* <Comp5/> */}
       {/* <Comp6/> */}
       {/* <Comp7/> */}
-      <Comp8/>
+      {/* <Comp8/> */}
+      {/* <Comp9/> */}
+      <NavbarComponent/>
     </div>
   );
 }
